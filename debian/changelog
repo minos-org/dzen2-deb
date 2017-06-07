@@ -3,27 +3,27 @@ dzen2 (1:201608161006+git7cb9347-minos) precise; urgency=low
   * add trusty/xenial packages into lp recipe:
     https://code.launchpad.net/~minos-archive/+recipe/dzen2
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Tue, 16 Aug 2016 10:06:50 -0500
+ -- Javier López <m@javier.io>  Tue, 16 Aug 2016 10:06:50 -0500
 
 dzen2 (1:201406230015+git7cb9347-minos) precise; urgency=low
 
   * New changelog formatting
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Mon, 23 Jun 2014 00:15:05 -0500
+ -- Javier López <m@javier.io>  Mon, 23 Jun 2014 00:15:05 -0500
 
 dzen2 (0.9.5~svn271-3-build2) precise; urgency=low
 
   * debian/patches/05_docking_make_strut_position_configurable.patch:
     Docking: Make strut position configurable
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Thu, 20 Feb 2014 01:02:05 -0600
+ -- Javier López <m@javier.io>  Thu, 20 Feb 2014 01:02:05 -0600
 
 dzen2 (0.9.5~svn271-3-build1) precise; urgency=low
 
   * Upload to unstable
   * Add a gbp.conf to use pristine-tar / sign tags / etc.
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Sun, 14 Jul 2013 12:34:15 -0400
+ -- Javier López <m@javier.io>  Sun, 14 Jul 2013 12:34:15 -0400
 
 dzen2 (0.9.5~svn271-2) experimental; urgency=low
 

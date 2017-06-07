@@ -1,7 +1,7 @@
 Source: dzen2
 Section: x11
 Priority: optional
-Maintainer: Javier Lopez <chilicuil@ubuntu.com>
+Maintainer: Javier López <m@javier.io>
 Build-Depends: debhelper (>= 9), dh-buildinfo, pkg-config, libx11-dev, libxinerama-dev, libxpm-dev, libxft-dev
 Standards-Version: 3.9.4
 Homepage: https://github.com/minos-org/dzen2
